@@ -5,3 +5,5 @@ Data fields
 id - Unique ID of each review
 sentiment - Sentiment of the review; 1 for positive reviews and 0 for negative reviews
 review - Text of the review
+
+Algorithm used - Random Forest with 100 trees, Accuracy - 84%.
